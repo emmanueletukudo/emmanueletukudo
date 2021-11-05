@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Emmanuel Etukudo, a Fullstack Software Developer cum Technical writer with a vision to change the world through crafting pixel-perfect Software Solutions.
-**emmanueletukudo/emmanueletukudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/emmanuel-etukudo-314ba8b4) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/emmanueletukudo) [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/eaetukudo)
 
