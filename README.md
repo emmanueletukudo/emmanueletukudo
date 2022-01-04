@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Emmanuel Etukudo, a Fullstack Software Developer cum Technical writer with a vision to change the world through crafting pixel-perfect Software Solutions.
+I'm Emmanuel Etukudo, a Fullstack Software Developer cum Technical writer with a vision to change the world through crafting pixel-perfect Software Solutions. I currently work as a Frontend Engineer at ArangoDB.
 
 I'll like us to connect:
 
