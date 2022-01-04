@@ -4,7 +4,7 @@ I'm Emmanuel Etukudo, a Fullstack Software Developer cum Technical writer with a
 
 I'll like us to connect:
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/emmanuel-etukudo-314ba8b4) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/emmanueletukudo) [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/eaetukudo)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/emmanuel-etukudo-314ba8b4) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/emmanueletukudo) [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/eetukudo_)
 
 ### Tech Stack
 
