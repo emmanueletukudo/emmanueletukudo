@@ -8,7 +8,7 @@ I'll like us to connect:
 
 ### Tech Stack
 
-- `Front-End Development`: React, Next.js, Vue.js, HTML, CSS & SASS
+- `Front-End Development`: Javascript, Typescript, React, Next.js, Vue.js, HTML, CSS & SASS
 - `Back-End Development`: Node.js, PHP & GO
 - `Mobile Development`: Fluter & React Native
 - `Tools`: Docker, Kubernates, Git & GitLab
